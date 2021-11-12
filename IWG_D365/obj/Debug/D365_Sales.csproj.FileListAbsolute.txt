@@ -1,0 +1,324 @@
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csprojAssemblyReference.cache
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csproj.CoreCompileInputs.cache
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Drivers\IEDriverServer.exe
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Drivers\chromedriver.exe
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ApiFiles\Book1.csv
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ApiFiles\XRAY1.jmx
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\IWG Customers D-3 - 2020-04-01_RTA117.xlsx
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\IWG Customers M-3 - 2020-03-27_JIE74.xlsx
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\TestData.xlsx
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll.config
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.pdb
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Nager.Date.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OOXML.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Buffers.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Web.Http.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.Support.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ZetaLongPaths.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.pdb
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Nager.Date.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Web.Http.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.Support.xml
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ZetaLongPaths.pdb
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csproj.CopyComplete
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\SeleniumCSharpMSTest.dll
+C:\Users\THI1401136\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\SeleniumCSharpMSTest.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Drivers\IEDriverServer.exe
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Drivers\chromedriver.exe
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ApiFiles\Book1.csv
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ApiFiles\XRAY1.jmx
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\IWG Customers M-3 - 2020-03-27_JIE74.xlsx
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\TestData.xlsx
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll.config
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Nager.Date.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OOXML.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Buffers.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Web.Http.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.Support.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ZetaLongPaths.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Nager.Date.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\System.Web.Http.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.Support.xml
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\bin\Debug\ZetaLongPaths.pdb
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csprojAssemblyReference.cache
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csproj.CopyComplete
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\SeleniumCSharpMSTest.dll
+C:\Users\Testhouse\Source\Repos\SalesD365_NewFW\IWG_D365\obj\Debug\SeleniumCSharpMSTest.pdb
+D:\IWG-Sales new\IWG_D365\bin\Debug\Drivers\IEDriverServer.exe
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Drivers\chromedriver.exe
+D:\IWG-Sales new\IWG_D365\bin\Debug\ApiFiles\Book1.csv
+D:\IWG-Sales new\IWG_D365\bin\Debug\ApiFiles\XRAY1.jmx
+D:\IWG-Sales new\IWG_D365\bin\Debug\DataManager\IWG Customers M-3 - 2020-03-27_JIE74.xlsx
+D:\IWG-Sales new\IWG_D365\bin\Debug\DataManager\TestData.xlsx
+D:\IWG-Sales new\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll.config
+D:\IWG-Sales new\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\SeleniumCSharpMSTest.pdb
+D:\IWG-Sales new\IWG_D365\bin\Debug\BouncyCastle.Crypto.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\ExcelDataReader.DataSet.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\ExcelDataReader.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Nager.Date.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\Newtonsoft.Json.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\NPOI.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\NPOI.OOXML.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\NPOI.OpenXml4Net.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\RelevantCodes.ExtentReports.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\System.Buffers.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\System.Net.Http.Formatting.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\System.Web.Http.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\WebDriver.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\WebDriver.Support.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\ZetaLongPaths.dll
+D:\IWG-Sales new\IWG_D365\bin\Debug\BouncyCastle.Crypto.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\ExcelDataReader.pdb
+D:\IWG-Sales new\IWG_D365\bin\Debug\ExcelDataReader.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\IWG-Sales new\IWG_D365\bin\Debug\ExcelDataReader.DataSet.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\IWG-Sales new\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\Nager.Date.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\Newtonsoft.Json.pdb
+D:\IWG-Sales new\IWG_D365\bin\Debug\Newtonsoft.Json.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\System.Net.Http.Formatting.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\System.Web.Http.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\WebDriver.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\WebDriver.Support.xml
+D:\IWG-Sales new\IWG_D365\bin\Debug\ZetaLongPaths.pdb
+D:\IWG-Sales new\IWG_D365\obj\Debug\D365_Sales.csprojAssemblyReference.cache
+D:\IWG-Sales new\IWG_D365\obj\Debug\D365_Sales.csproj.CoreCompileInputs.cache
+D:\IWG-Sales new\IWG_D365\obj\Debug\D365_Sales.csproj.CopyComplete
+D:\IWG-Sales new\IWG_D365\obj\Debug\SeleniumCSharpMSTest.dll
+D:\IWG-Sales new\IWG_D365\obj\Debug\SeleniumCSharpMSTest.pdb
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Drivers\IEDriverServer.exe
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Drivers\chromedriver.exe
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ApiFiles\Book1.csv
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ApiFiles\XRAY1.jmx
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\DataManager\IWG Customers M-3 - 2020-03-27_JIE74.xlsx
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\DataManager\TestData.xlsx
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll.config
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\SeleniumCSharpMSTest.pdb
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\BouncyCastle.Crypto.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ExcelDataReader.DataSet.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ExcelDataReader.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Nager.Date.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Newtonsoft.Json.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\NPOI.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\NPOI.OOXML.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\NPOI.OpenXml4Net.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\RelevantCodes.ExtentReports.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\System.Buffers.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\System.Net.Http.Formatting.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\System.Web.Http.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\WebDriver.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\WebDriver.Support.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ZetaLongPaths.dll
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\BouncyCastle.Crypto.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ExcelDataReader.pdb
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ExcelDataReader.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ExcelDataReader.DataSet.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Nager.Date.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Newtonsoft.Json.pdb
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\Newtonsoft.Json.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\System.Net.Http.Formatting.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\System.Web.Http.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\WebDriver.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\WebDriver.Support.xml
+F:\9 sep sales\11 sep\IWG_D365\bin\Debug\ZetaLongPaths.pdb
+F:\9 sep sales\11 sep\IWG_D365\obj\Debug\D365_Sales.csprojAssemblyReference.cache
+F:\9 sep sales\11 sep\IWG_D365\obj\Debug\D365_Sales.csproj.CoreCompileInputs.cache
+F:\9 sep sales\11 sep\IWG_D365\obj\Debug\D365_Sales.csproj.CopyComplete
+F:\9 sep sales\11 sep\IWG_D365\obj\Debug\SeleniumCSharpMSTest.dll
+F:\9 sep sales\11 sep\IWG_D365\obj\Debug\SeleniumCSharpMSTest.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csprojAssemblyReference.cache
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csproj.CoreCompileInputs.cache
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Drivers\IEDriverServer.exe
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Drivers\chromedriver.exe
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ApiFiles\Book1.csv
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ApiFiles\XRAY1.jmx
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\IWG Customers M-3 - 2020-03-27_JIE74.xlsx
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\DataManager\TestData.xlsx
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll.config
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\SeleniumCSharpMSTest.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\BouncyCastle.Crypto.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Nager.Date.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OOXML.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OpenXml4Net.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\System.Buffers.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\System.Net.Http.Formatting.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\System.Web.Http.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.Support.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ZetaLongPaths.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\BouncyCastle.Crypto.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ExcelDataReader.DataSet.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Nager.Date.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\Newtonsoft.Json.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\System.Net.Http.Formatting.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\System.Web.Http.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\WebDriver.Support.xml
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\bin\Debug\ZetaLongPaths.pdb
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\obj\Debug\D365_Sales.csproj.CopyComplete
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\obj\Debug\SeleniumCSharpMSTest.dll
+C:\IWGRepos21Jul\SalesD365_NewFW\IWG_D365\obj\Debug\SeleniumCSharpMSTest.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Drivers\IEDriverServer.exe
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Drivers\chromedriver.exe
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ApiFiles\Book1.csv
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ApiFiles\XRAY1.jmx
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\DataManager\IWG Customers M-3 - 2020-03-27_JIE74.xlsx
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\DataManager\TestData.xlsx
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll.config
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\SeleniumCSharpMSTest.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\SeleniumCSharpMSTest.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\BouncyCastle.Crypto.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ExcelDataReader.DataSet.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ExcelDataReader.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Nager.Date.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Newtonsoft.Json.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\NPOI.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\NPOI.OOXML.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\NPOI.OpenXml4Net.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\System.Buffers.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\System.Net.Http.Formatting.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\System.Web.Http.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\WebDriver.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\WebDriver.Support.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ZetaLongPaths.dll
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\BouncyCastle.Crypto.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ExcelDataReader.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ExcelDataReader.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ExcelDataReader.DataSet.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Nager.Date.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Newtonsoft.Json.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\Newtonsoft.Json.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\System.Net.Http.Formatting.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\System.Web.Http.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\WebDriver.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\WebDriver.Support.xml
+C:\IWGRepos12Nov\POC\IWG_D365\bin\Debug\ZetaLongPaths.pdb
+C:\IWGRepos12Nov\POC\IWG_D365\obj\Debug\D365_Sales.csprojAssemblyReference.cache
+C:\IWGRepos12Nov\POC\IWG_D365\obj\Debug\D365_Sales.csproj.CoreCompileInputs.cache
+C:\IWGRepos12Nov\POC\IWG_D365\obj\Debug\D365_Sales.csproj.CopyComplete
+C:\IWGRepos12Nov\POC\IWG_D365\obj\Debug\SeleniumCSharpMSTest.dll
+C:\IWGRepos12Nov\POC\IWG_D365\obj\Debug\SeleniumCSharpMSTest.pdb

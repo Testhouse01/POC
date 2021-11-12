@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IWG_D365/Reports/14-Aug-20_18.16.10_run results/RTA14779_Verifyoppfieldsareremoved/Iteration0
+/.vs/D365_Sales/v15/Server/sqlite3
+/.vs/D365_Sales/v15
+/.vs/sales new frame/v15
+/IWG_D365/Reports
+/IWG_D365/DataManager/~$TestData.xlsx
+/IWG_D365/bin/Debug
+/IWG_D365/DataManager
+/.vs/D365_Sales/v16/Server/sqlite3
